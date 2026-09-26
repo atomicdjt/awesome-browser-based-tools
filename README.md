@@ -59,6 +59,8 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Kapwing](https://www.kapwing.com/tools) - Collection of browser-based media editing tools for creators.
 - [EzGIF](https://ezgif.com/) - Long-running web toolkit for GIF editing, conversion, resizing, cropping, and optimization.
 
+- [Image to ASCII](https://imagetoascii.art/) - Convert images into ASCII art locally, with character and dithering controls plus text, Markdown, image, HTML, and ANSI exports. `local-first` `privacy-first`
+
 ## Developer Utilities
 
 - [CyberChef](https://gchq.github.io/CyberChef/) - The cyber Swiss Army knife for encoding, decoding, encryption, compression, and data transforms. `local-first` `open-source`
