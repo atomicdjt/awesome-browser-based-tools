@@ -93,6 +93,7 @@ This repository is maintained as a practical discovery list, not a paid director
 
 ## Data, Security, and Diagnostics
 
+- [Call Sampling Calculator](https://dagmor.app/story-call-sampling-calculator.html) - Estimate the chance that a random sample misses an assumed number of affected recorded calls.
 - [PageSpeed Insights](https://pagespeed.web.dev/) - Analyze web performance and Core Web Vitals.
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - Web quality audits for performance, accessibility, SEO, and best practices. `open-source`
 - [SSL Labs SSL Test](https://www.ssllabs.com/ssltest/) - Deep TLS/SSL configuration analysis for public websites.
