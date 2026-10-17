@@ -93,6 +93,7 @@ This repository is maintained as a practical discovery list, not a paid director
 
 ## Data, Security, and Diagnostics
 
+- [Compare Two Lists](https://comparetwolists.net/) - Compare pasted lists or TXT, CSV, and XLSX columns locally in the browser to find shared and unique values while preserving leading zeros. `local-first`
 - [PageSpeed Insights](https://pagespeed.web.dev/) - Analyze web performance and Core Web Vitals.
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - Web quality audits for performance, accessibility, SEO, and best practices. `open-source`
 - [SSL Labs SSL Test](https://www.ssllabs.com/ssltest/) - Deep TLS/SSL configuration analysis for public websites.
