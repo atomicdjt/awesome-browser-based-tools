@@ -61,6 +61,7 @@ This repository is maintained as a practical discovery list, not a paid director
 
 ## Developer Utilities
 
+- [LiuNengAI Bug Report Builder](https://liunenglabs.xyz/guides/debug-report/) - Assemble environment, reproduction steps and error details into a Markdown bug report locally in the browser; Chinese interface, no signup or AI calls, with MIT-licensed single-file source. `local-first` `open-source`
 - [CyberChef](https://gchq.github.io/CyberChef/) - The cyber Swiss Army knife for encoding, decoding, encryption, compression, and data transforms. `local-first` `open-source`
 - [StackBlitz](https://stackblitz.com/) - Browser-based development environment for web apps.
 - [CodePen](https://codepen.io/) - Frontend playground for HTML, CSS, and JavaScript experiments.
