@@ -103,6 +103,8 @@ This repository is maintained as a practical discovery list, not a paid director
 
 ## Tool Directories and Discovery
 
+- [WorkToolMap](https://worktoolmap.com/) - Task-based directory of software and online tools with source-checking notes and official website links. `directory`
+
 - [ToolKnit](https://toolknit.com) - Curated directory for practical online tools across categories. `directory`
 - [AlternativeTo](https://alternativeto.net/) - Community-driven software and web app alternatives directory. `directory`
 - [Product Hunt](https://www.producthunt.com/) - Launch and discovery platform for new software products. `directory`
