@@ -87,6 +87,7 @@ This repository is maintained as a practical discovery list, not a paid director
 
 - [Hemingway Editor](https://hemingwayapp.com/) - Browser-based writing clarity checker.
 - [Dillinger](https://dillinger.io/) - Online Markdown editor with preview and export options. `open-source`
+- [Duplicate Word Finder](https://textbases.app/text-tools/duplicate-word-finder/) - Find repeated words in text to support proofreading and revision.
 - [StackEdit](https://stackedit.io/) - Browser-based Markdown editor with sync options. `open-source`
 - [Carbon](https://carbon.now.sh/) - Create and export beautiful code screenshots.
 - [Shields.io](https://shields.io/) - Generate badges for GitHub READMEs, docs, and project pages. `open-source`
