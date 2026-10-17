@@ -74,6 +74,7 @@ This repository is maintained as a practical discovery list, not a paid director
 
 ## Design and Creative Tools
 
+- [AISkyLa Gifting](https://aiskyla.com/) - Create free animated eCards and virtual gifts with photos, messages and music, then share them by link without an account.
 - [Figma](https://www.figma.com/) - Collaborative interface design platform that runs in the browser.
 - [Penpot](https://penpot.app/) - Open-source design and prototyping platform for teams. `open-source`
 - [Canva](https://www.canva.com/) - Browser-based design tool for presentations, social graphics, and marketing assets.
