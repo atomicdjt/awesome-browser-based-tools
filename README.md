@@ -57,6 +57,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketch-style diagrams and collaboration. `open-source`
 - [tldraw](https://www.tldraw.com/) - Whiteboard and drawing app built for the web. `open-source`
 - [Kapwing](https://www.kapwing.com/tools) - Collection of browser-based media editing tools for creators.
+- [Paste a Clip](https://www.pasteaclip.com/video-editor) - Browser-based video editor for trimming, cropping, adding text, and exporting MP4, with direct import from supported TikTok links.
 - [EzGIF](https://ezgif.com/) - Long-running web toolkit for GIF editing, conversion, resizing, cropping, and optimization.
 
 ## Developer Utilities
