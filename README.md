@@ -58,6 +58,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [tldraw](https://www.tldraw.com/) - Whiteboard and drawing app built for the web. `open-source`
 - [Kapwing](https://www.kapwing.com/tools) - Collection of browser-based media editing tools for creators.
 - [EzGIF](https://ezgif.com/) - Long-running web toolkit for GIF editing, conversion, resizing, cropping, and optimization.
+- [BulkPicTools](https://bulkpictools.com) - Browser-local batch image toolkit with compression, conversion, resizing, cropping, and chained image workflows.
 
 ## Developer Utilities
 
