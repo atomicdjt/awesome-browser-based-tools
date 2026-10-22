@@ -71,6 +71,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Mermaid Live Editor](https://mermaid.live/) - Create and preview Mermaid diagrams directly in the browser. `open-source`
 - [Crontab Guru](https://crontab.guru/) - Human-readable editor and explainer for cron schedules.
 - [JSON Editor Online](https://jsoneditoronline.org/) - View, format, compare, and edit JSON documents in the browser.
+- [AgentSource JSON Formatter](https://agent-source-lab.maple-poppy-4553.chatgpt.site/tools/json.html) - Format and validate JSON locally with numeric rounding, unsafe integer, and overflow warnings; Chinese interface. `local-first`
 
 ## Design and Creative Tools
 
