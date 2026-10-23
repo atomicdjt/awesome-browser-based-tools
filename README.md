@@ -82,6 +82,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Haikei](https://haikei.app/) - Generate SVG backgrounds, blobs, waves, and other visual assets.
 - [Iconify](https://icon-sets.iconify.design/) - Search thousands of icon sets from one browser interface. `open-source`
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons by the Tailwind CSS team. `open-source`
+- [AI Happy Horse](https://aihappyhorse.studio/prompt-lab) - Free rule-based video-brief planner with prompts, three-shot text plans and TXT/JSON export; does not generate videos. `local-first`
 
 ## Writing and Documentation
 
