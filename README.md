@@ -53,6 +53,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [24Picture](https://24picture.com) - Browser-local image toolkit with converters, compressors, editors, GIF tools, batch conversion, and PWA support. `local-first` `privacy-first` `pwa`
 - [Squoosh](https://squoosh.app/) - Image compression and format conversion from the browser, originally by GoogleChromeLabs. `local-first` `open-source`
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Web UI for SVGO, useful for optimizing SVG files before shipping them. `local-first` `open-source`
+- [SVG Cut-File Checker](https://pic2svg.com/svg-cut-file-checker/) - Lists open outlines, stroke-only shapes, text that needs a font and embedded bitmaps in an SVG before a Cricut, Silhouette or laser cut; the file is parsed in the tab, not uploaded. `local-first` `privacy-first`
 - [Photopea](https://www.photopea.com/) - Advanced browser-based image editor with PSD, vector, and raster workflows.
 - [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketch-style diagrams and collaboration. `open-source`
 - [tldraw](https://www.tldraw.com/) - Whiteboard and drawing app built for the web. `open-source`
