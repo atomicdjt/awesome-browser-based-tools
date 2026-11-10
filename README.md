@@ -60,6 +60,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [EzGIF](https://ezgif.com/) - Long-running web toolkit for GIF editing, conversion, resizing, cropping, and optimization.
 
 ## Developer Utilities
+- [ToolkitZen](https://www.toolkitzen.com/) - Free browser utilities for JSON formatting, PDF and image tasks, unit conversions, and number-to-words conversion without signup.
 
 - [CyberChef](https://gchq.github.io/CyberChef/) - The cyber Swiss Army knife for encoding, decoding, encryption, compression, and data transforms. `local-first` `open-source`
 - [StackBlitz](https://stackblitz.com/) - Browser-based development environment for web apps.
